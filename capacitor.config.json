@@ -1,0 +1,11 @@
+{
+  "appId": "com.getcapacitor.community.appactionsdemo",
+  "appName": "app-actions-demo",
+  "bundledWebRuntime": false,
+  "webDir": "www",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

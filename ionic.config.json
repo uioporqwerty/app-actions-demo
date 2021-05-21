@@ -1,0 +1,7 @@
+{
+  "name": "app-actions-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
